@@ -1,0 +1,24 @@
+.bodyText .Estilo14.Estilo1.Estilo2 {
+
+	font-family: Tahoma;
+
+}
+
+
+
+body,td,th {
+
+	color: #B39640;
+
+}
+#main_container{
+width:950px;
+height:auto;
+margin:auto;
+left:0px;
+top:0px;
+border-color:#CCCCCC;
+cursor:default; cursor:default; 
+overflow:none;
+
+}
